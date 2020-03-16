@@ -1,0 +1,163 @@
+.mainheader{ background: url(../img/hero-homepage-2019-1800x1185.jpg)
+    ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 1;
+    background-color: black;
+   
+}
+
+.child-mainheader{
+    background-color: black;
+    opacity: 0.6;
+}
+
+.main{
+    height: 600px;
+    margin: 10px;
+
+}
+
+.header1{
+    text-align: center;
+    /* padding-bottom: 250px; */
+    font-size: 25px;
+    color: rgb(40, 64, 143);
+    /* background-color: black; */
+
+}
+
+/* .nav{
+    position: fixed;
+    right: 0;
+} */
+
+
+.nav ul li{
+    display: inline-block ;
+    margin-right: 10px;
+    
+    font-size: 20px;
+    color: white;
+   
+}
+
+.nav .premium{
+    margin-right: 20px;
+}
+
+
+.nav ul  {
+    float: right;
+    display: inline-block;
+}
+
+.logo{
+    font-size: 36px;
+    color: aliceblue;
+}
+
+.premium{
+    margin-right: 40px;
+}
+
+.nav .btn {
+    background-color: rgb(192, 102, 70);
+    border: 6px;
+}
+
+
+.flex{
+    display: flex;
+    flex-grow: 1;
+    width: 100%;
+    height: 300px;
+    /* border: 2px solid blue; */
+    justify-content: space-between;
+   
+  
+}
+
+
+.right{
+    height: 300px;
+    width: 442px;
+     /* border: 2px solid blue; */
+    background-color: black;
+    color: blanchedalmond;
+    padding: 10px;
+    opacity: 0.9;
+
+   
+
+
+}
+
+.left{
+    height: 300px;
+    width: 442px;
+     /* border: 2px solid rgb(34, 16, 195); */
+    background-color: black;
+    color: blanchedalmond;
+    padding: 10px;
+    opacity: 0.8;
+   
+   
+}
+
+.mid{
+
+    height: 300px;
+    width:442px ;
+    /* border: 2px solid black; */
+    background-color: rgb(7, 6, 6);
+    color: blanchedalmond;
+    padding: 10px;
+    opacity: 0.8;
+   
+}
+
+.mid1{
+
+    height: 300px;
+    width: 442px;
+     /* border: 2px solid rgb(10, 19, 100); */
+    background-color: rgb(10, 10, 10);
+    color: blanchedalmond;
+    padding: 10px;
+    opacity: 0.8;
+   
+}
+  .buttom{
+     border-radius: 3px;
+     background-color: chocolate;
+     font-size: 15px;
+ }
+
+
+ .right:hover{
+     background-color: white;
+     color: black;
+     opacity: 0.5;
+ }
+ 
+ .mid:hover{
+     background-color: white;
+     color: black;
+     opacity: 0.5;
+ }
+
+ 
+
+
+ .left:hover{
+    background-color: white;
+    color: black;
+    opacity: 0.5;
+ }
+
+ .mid1:hover{
+    background-color: white;
+    color: black;
+    opacity: 0.5;
+ }
